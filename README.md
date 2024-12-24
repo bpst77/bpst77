@@ -1,8 +1,1 @@
-- About me
-
-- 👋 Hi, I’m Bruno
-- 👀 I’m interested in Coding, gaming;
-- 🌱 I’m currently learning the basics of github;
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: I use 2 nicks on internet, but cant choose only one...
+Oi, eu sou Bruno. Bem vindo ao meu perfil do GitHub. Atualmente eu estou o usando como um lugar para guardar anotações e trabalhos do curso. Aqui você encontrará simples exercícios com as linguas básicas baseadas em funções e objetos(C e Java).
