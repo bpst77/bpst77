@@ -1,1 +1,1 @@
-Oi, eu sou Bruno. Bem vindo ao meu perfil do GitHub. Atualmente eu estou o usando como um lugar para guardar anotações e trabalhos do curso. Aqui você encontrará simples exercícios com as linguas básicas baseadas em funções e orientada a objetos(C e Java).
+Oi, eu sou Bruno. Bem vindo ao meu perfil do GitHub. Atualmente eu estou o usando como um lugar para guardar anotações e trabalhos do curso. Aqui você encontrará exercícios com os dois tipos de linguas e alguns projetos pessoais ou feitos nas disciplinas do curso como aplicações web, banco de dados e outros.
