@@ -1,1 +1,1 @@
-Salve, bem vindo ao meu perfil. Atualmente eu estou para guardar anotações e trabalhos do curso. Aqui você encontrará exercícios com os dois tipos de linguas e alguns projetos pessoais ou feitos nas disciplinas de aplicações web, banco de dados, entre outros.
+Salve, atualmente uso esse perfil para guardar anotações, trabalhos e algumas práticas pessoais. Aqui você encontrará exercícios com os dois tipos de linguas e alguns projetos feitos nas disciplinas de aplicações web, banco de dados, entre outros e testando bibliotecas e outros recursos que achei interessantes.
